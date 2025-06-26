@@ -4,7 +4,7 @@ This repository documents my structured Python learning from scratch, aligned to
 
 ---
 
-## 📁 Folder Overview
+##  Folder Overview
 
 ### `Python-Basics/`
 Covers foundational concepts:
@@ -30,7 +30,7 @@ Advanced fundamentals:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python 3.13.5
 - VS Code
@@ -39,7 +39,7 @@ Advanced fundamentals:
 
 ---
 
-## 📈 Current Progress
+##  Current Progress
 
 - ✅ Day 1: Basics + loops
 - ✅ Day 2: Lists, conditionals, calculator logic
@@ -48,7 +48,7 @@ Advanced fundamentals:
 
 ---
 
-## 📌 Next Steps
+##  Next Steps
 
 - Initialize Git repo
 - Push to GitHub
