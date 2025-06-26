@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# VS Code configs (optional)
+.vscode/
+
+# Compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS clutter
+Thumbs.db
+.DS_Store
