@@ -4,7 +4,7 @@ This repository documents my structured Python learning from scratch, aligned to
 
 ---
 
-##  Folder Overview
+## Folder Overview
 
 ### `Python-Basics/`
 Covers foundational concepts:
@@ -23,10 +23,13 @@ Focuses on core data structures:
 - List-based problem-solving
 
 ### `Python-Basics+/`
-Advanced fundamentals:
+Advanced fundamentals and modular programming:
 - Custom functions
-- Argument handling
-- Return types and modular thinking
+- Exception handling
+- Object-Oriented Programming (OOP): classes and inheritance
+- File and directory handling
+- Built-in and custom Python modules
+- Basic e-commerce package structure
 
 ---
 
@@ -41,10 +44,10 @@ Advanced fundamentals:
 
 ##  Current Progress
 
-- ✅ Day 1: Basics + loops
-- ✅ Day 2: Lists, conditionals, calculator logic
-- ✅ Day 3: Tuples, dictionaries, function basics
-- 🔜 GitHub push, lambda functions, OOP
+-  Day 1: Basics + loops
+-  Day 2: Lists, conditionals, calculator logic
+-  Day 3: Tuples, dictionaries, function basics
+-  GitHub push, lambda functions, OOP
 
 ---
 
